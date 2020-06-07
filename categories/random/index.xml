@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Viktor Rognås</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on Viktor Rognås</description>
+    <title>random on Viktor Rognås</title>
+    <link>/categories/random/</link>
+    <description>Recent content in random on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
     <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/random/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,14 +24,14 @@ Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it i
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Touch Typing</title>
+      <link>/post/touch-typing/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+      <guid>/post/touch-typing/</guid>
+      <description>It all started out with me trying to learn Vim I came across the term “touch typing” when I was looking in a book about Vim (the text editor). The book is called Practical Vim: Edit Text at the Speed of Thought, by Drew Neil. In there I read the following in the foreword:
+ Learn to Touch Type, Then Learn Vim
+If you have to look down to find the keys on the keyboard, the benefits of learning Vim won’t come fast.</description>
     </item>
     
   </channel>

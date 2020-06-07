@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head>
-    <title>css</title>
+    <title>My view on estimating kidney function in pharmacometrics</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="../../css/theme.css"/>
@@ -87,63 +87,46 @@
     <hr />
 </header>
 <div class="container">
-    <div class="pl-sm-4 ml-sm-5">
-        <h4>Tags</h4>
-        <ul class="list-unstyled">
+    <div class="pl-sm-2">
+        <div class="mb-3">
+            <h3 class="mb-0">My view on estimating kidney function in pharmacometrics</h3>
             
-            <li>
-                2 Articles - <a href="../../tags/markdown">markdown</a>
-            </li>
+            <small class="text-muted">Published April 9, 2020</small>
+        </div>
+
+        <article>
             
-            <li>
-                2 Articles - <a href="../../tags/random">random</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/css">css</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/emoji">emoji</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/html">html</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/index">index</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/plot">plot</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/privacy">privacy</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/r-markdown">r-markdown</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/regression">regression</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/shortcodes">shortcodes</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/text">text</a>
-            </li>
-            
-            <li>
-                1 Articles - <a href="../../tags/themes">themes</a>
-            </li>
-            
-        </ul>
+<script src="../../rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>In pharmacometric practice we often use some formula to estimate kidney function.
+Most often the Cockcroft-Gault<span class="citation"><sup>1</sup></span> (CG) formula is used.
+Other formulas used include MDRD<span class="citation"><sup>2</sup></span> (6- or 4-variable versions) and the CKD-EPI.<span class="citation"><sup>3</sup></span></p>
+<p>These equations differ in how they were developed, in what population, and what they estimate!
+Something to keep in mind is that CG estimates creatinine clearance, while the CKD-EPI and MDRD estimate GFR.
+Both CKD-EPI and MDRD are also adjusted for body surface area<span class="citation"><sup>4</sup></span> (BSA), which CG is not.
+Thus to be able to compare estimates from CG and CKD-EPI/MDRD you should make sure they are in the same units!
+For overall kidney function, it is widely accepted that GFR is the best estimate.<span class="citation"><sup>5</sup></span> Creatinine clearance is often seen as an <em>estimate</em> for GFR.</p>
+<p>There is to my knowledge no formal recommendation on which equation to use for estimating GFR. My view is that it depends on your study population and if any attempt has been made to validate the equations on similar populations. If I had to give a recommendation I would opt for CKD-EPI since its the most recently developed and seems to give less variability than e.g. MDRD.</p>
+<div id="refs" class="references">
+<div id="ref-cockcroftPredictionCreatinineClearance1976">
+<p>1. Cockcroft, D. W. &amp; Gault, H. M. Prediction of Creatinine Clearance from Serum Creatinine. <em>Nephron</em> <strong>16</strong>, 31–41 (1976).</p>
+</div>
+<div id="ref-leveyMoreAccurateMethod1999">
+<p>2. Levey, A. S. A More Accurate Method To Estimate Glomerular Filtration Rate from Serum Creatinine: A New Prediction Equation. <em>Ann Intern Med</em> <strong>130</strong>, 461 (1999).</p>
+</div>
+<div id="ref-leveyNewEquationEstimate2009">
+<p>3. Levey, A. S. <em>et al.</em> A New Equation to Estimate Glomerular Filtration Rate. 16 (2009).</p>
+</div>
+<div id="ref-duboisFormulaEstimateApproximate1916">
+<p>4. Du Bois, D. &amp; Du Bois, E. A formula to estimate the approximate surface are if height and weight be known. <em>Arch Intern Med</em> <strong>XVII</strong>, 863 (1916).</p>
+</div>
+<div id="ref-kidneydiseaseimprovingglobaloutcomeskdigoacutekidneyinjuryworkgroupKDIGOClinicalPractice2012">
+<p>5. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group KDIGO Clinical Practice Guideline for Acute Kidney Injury. <em>Kidney International Supplements</em> <strong>2</strong>, 1–138 (2012).</p>
+</div>
+</div>
+
+        </article>
     </div>
 
             </div>
