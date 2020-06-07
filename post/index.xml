@@ -59,6 +59,17 @@ pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Touch Typing</title>
+      <link>/post/touch-typing/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/touch-typing/</guid>
+      <description>It all started out with me trying to learn Vim I came across the term “touch typing” when I was looking in a book about Vim (the text editor). The book is called Practical Vim: Edit Text at the Speed of Thought, by Drew Neil. In there I read the following in the foreword:
+ Learn to Touch Type, Then Learn Vim
+If you have to look down to find the keys on the keyboard, the benefits of learning Vim won’t come fast.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>

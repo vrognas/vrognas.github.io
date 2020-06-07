@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random on Viktor Rognås</title>
+    <link>/tags/random/</link>
+    <description>Recent content in random on Viktor Rognås</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Touch Typing</title>
+      <link>/post/touch-typing/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/touch-typing/</guid>
+      <description>It all started out with me trying to learn Vim I came across the term “touch typing” when I was looking in a book about Vim (the text editor). The book is called Practical Vim: Edit Text at the Speed of Thought, by Drew Neil. In there I read the following in the foreword:
+ Learn to Touch Type, Then Learn Vim
+If you have to look down to find the keys on the keyboard, the benefits of learning Vim won’t come fast.</description>
+    </item>
+    
+  </channel>
+</rss>
