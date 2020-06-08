@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cheat for the command line!</title>
+      <link>/post/cheat-unix/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cheat-unix/</guid>
+      <description>When you start out using the command line, you will notice that there are many small and handy programs (also referred to as “commands”) you can run. You might start out using pwd (for “print working directory”), which will tell you what directory you are currently in. Then you might use programs such as ls to “list” the contents of a directory, and you might use cd to “change directory” to another directory you might want to go to.</description>
+    </item>
     
     <item>
       <title>My view on estimating kidney function in pharmacometrics</title>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macOS on Viktor Rognås</title>
+    <link>/tags/macos/</link>
+    <description>Recent content in macOS on Viktor Rognås</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheat for the command line!</title>
+      <link>/post/cheat-unix/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cheat-unix/</guid>
+      <description>When you start out using the command line, you will notice that there are many small and handy programs (also referred to as “commands”) you can run. You might start out using pwd (for “print working directory”), which will tell you what directory you are currently in. Then you might use programs such as ls to “list” the contents of a directory, and you might use cd to “change directory” to another directory you might want to go to.</description>
+    </item>
+    
+  </channel>
+</rss>
