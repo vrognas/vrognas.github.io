@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head>
-    <title>Rich Content</title>
+    <title>Software management with Homebrew 🍺</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="../../css/theme.css"/>
@@ -112,122 +112,34 @@
 <div class="container">
     <div class="pl-sm-2">
         <div class="mb-3">
-            <h3 class="mb-0">Rich Content</h3>
+            <h3 class="mb-0">Software management with Homebrew 🍺</h3>
             
-            <small class="text-muted">Published March 10, 2019</small>
+            <small class="text-muted">Published June 9, 2020</small>
         </div>
 
         <article>
-            <p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
-<hr>
-<h2 id="instagram-simple-shortcode">Instagram Simple Shortcode</h2>
+            
+<script src="../../rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
-
-
-<style type="text/css">
-   .__h_instagram.card {
-      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-      font-size: 14px;
-      border: 1px solid rgb(219, 219, 219);
-      padding: 0;
-	  margin-top: 30px;
-   }
-   .__h_instagram.card .card-header, .__h_instagram.card .card-body {
-      padding: 10px 10px 10px;
-   }
-   .__h_instagram.card img {
-      width: 100%;
-    	height: auto;
-   }
-</style>
-
-<div class="__h_instagram s_instagram_simple card" style="max-width: 640px">
-	<div class="card-header">
-    <a href="https://www.instagram.com/koloot.design" class="card-link">koloot.design</a>
-  </div>
-	<a href="https://instagram.com/p/BGvuInzyFAe/" rel="noopener" target="_blank"><img class="card-img-top img-fluid" src="https://scontent-arn2-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/13437259_1631155187211476_646101738_n.jpg?_nc_ht=scontent-arn2-2.cdninstagram.com&amp;_nc_cat=108&amp;_nc_ohc=8Y7w_CHVn2sAX-KsM8E&amp;oh=e036576e0f4a9277e55a7849bbd95561&amp;oe=5F08740F" width="640"  height="451" alt="Instagram Image"></a>
-	<div class="card-body">
-		
-		<a href="https://www.instagram.com/koloot.design" class="card-link">View More on Instagram</a>
-	</div>
+<p>One thing that GNU/Linux users ar very familiar with is the concept of a “package manager”.
+A package manager is a tool that keeps track of software for you. It installs it, uninstalls it, upgrades it, etc.
+On macOS there isn’t any package manager installed by default (perhaps the App Store could be seen as some form of package manager?), so for all you macOS users out there I highly recommend you install <a href="https://brew.sh">Homebrew</a>.</p>
+<p>All you have to do is literally paste this into your terminal, and then follow the instructions:<br />
+<code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"</code></p>
+<div id="installupgrade-software-on-a-remote-server-without-admin-rights" class="section level4">
+<h4>Install/upgrade software on a remote server without admin rights</h4>
+<p>The above script also works on remote Linux servers. If you run this script, then you will get a folder “.linuxbrew” in your home user folder which will contain all your programs. This is nice to have if your server runs old software e.g. old git versions (I’m looking at you, CentOS!).</p>
+</div>
+<div id="using-homebrew" class="section level4">
+<h4>Using Homebrew 🍺</h4>
+<p>On the command line, type e.g. <code>brew search firefox</code> to search for “firefox”, you can search for any software you like.
+For command line utilities (“formulas”), these are installed with <code>brew install wget</code> (to install the formula <code>wget</code>),
+for proper software applications (“casks”) like Firefox, these are installed with <code>brew cask install firefox</code>.</p>
+<p>I recommend installing all your software with Homebrew since it is much easier to keep track of programs och your system this way, and a nice feature is that you can upgrade <em>all</em> programs in one sweep by just typing <code>brew upgrade</code> and hit Enter in your terminal.</p>
+<p>To list all installed formulas, just type <code>brew list</code>, and for casks type <code>brew cask list</code>.</p>
 </div>
 
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="twitter-simple-shortcode">Twitter Simple Shortcode</h2>
-
-
-
-
-<style type="text/css">
-  .twitter-tweet {
-  font: 14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-  border-left: 4px solid #2b7bb9;
-  padding-left: 1.5em;
-  color: #555;
-}
-  .twitter-tweet a {
-  color: #2b7bb9;
-  text-decoration: none;
-}
-  blockquote.twitter-tweet a:hover,
-  blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-}
-</style>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”<br>— Jan Tschichold <a href="https://t.co/gcv7SrhvJb">pic.twitter.com/gcv7SrhvJb</a></p>&mdash; Graphic Design History (@DesignReviewed) <a href="https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
-
-<!-- raw HTML omitted -->
-<hr>
-<h2 id="vimeo-simple-shortcode">Vimeo Simple Shortcode</h2>
-
-
-
-
-
-<style>
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-</style>
-
-
-<div class="s_video_simple __h_video">
-<a href="https://vimeo.com/4.8912912e&#43;07" rel="noopener" target="_blank">
-
-
-<img src="https://i.vimeocdn.com/video/337401969_640.jpg" srcset="https://i.vimeocdn.com/video/337401969_640.jpg 1x, https://i.vimeocdn.com/video/337401969.jpg 2x" alt="Sing Jan Swing - Kinetic Type">
-<div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>
         </article>
     </div>
 

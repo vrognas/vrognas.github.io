@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Software management with Homebrew 🍺</title>
+      <link>/post/homebrew/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/homebrew/</guid>
+      <description>One thing that GNU/Linux users ar very familiar with is the concept of a “package manager”. A package manager is a tool that keeps track of software for you. It installs it, uninstalls it, upgrades it, etc. On macOS there isn’t any package manager installed by default (perhaps the App Store could be seen as some form of package manager?), so for all you macOS users out there I highly recommend you install Homebrew.</description>
+    </item>
+    
+    <item>
       <title>Cheat for the command line!</title>
       <link>/post/cheat-unix/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
