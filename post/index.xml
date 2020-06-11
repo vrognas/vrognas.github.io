@@ -2,50 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Viktor Rognås</title>
-    <link>/post/</link>
+    <link>https://vrognas.github.io/post/</link>
     <description>Recent content in Posts on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vrognas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Software management with Homebrew 🍺</title>
-      <link>/post/homebrew/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/homebrew/</guid>
-      <description>One thing that GNU/Linux users are familiar with is the concept of a “package manager”. A package manager is a tool that keeps track of software for you. It installs it, uninstalls it, upgrades it, etc. On macOS there isn’t any package manager installed by default (perhaps the App Store could be seen as some form of package manager?), so for all you macOS users out there I highly recommend you install Homebrew.</description>
-    </item>
     
     <item>
       <title>Cheat for the command line!</title>
-      <link>/post/cheat-unix/</link>
+      <link>https://vrognas.github.io/post/cheat-unix/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/cheat-unix/</guid>
+      <guid>https://vrognas.github.io/post/cheat-unix/</guid>
       <description>When you start out using the command line, you will notice that there are many small and handy programs (also referred to as “commands”) you can run. You might start out using pwd (for “print working directory”), which will tell you what directory you are currently in. Then you might use programs such as ls to “list” the contents of a directory, and you might use cd to “change directory” to another directory you might want to go to.</description>
     </item>
     
     <item>
       <title>My view on estimating kidney function in pharmacometrics</title>
-      <link>/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</link>
+      <link>https://vrognas.github.io/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</guid>
+      <guid>https://vrognas.github.io/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</guid>
       <description>In pharmacometric practice we often use some formula to estimate kidney function. Most often the Cockcroft-Gault1 (CG) formula is used. Other formulas used include MDRD2 (6- or 4-variable versions) and the CKD-EPI.3
 These equations differ in how they were developed, in what population, and what they estimate! Something to keep in mind is that CG estimates creatinine clearance, while the CKD-EPI and MDRD estimate GFR. Both CKD-EPI and MDRD are also adjusted for body surface area4 (BSA), which CG is not.</description>
     </item>
     
     <item>
       <title>useR!2019</title>
-      <link>/post/user-2019/</link>
+      <link>https://vrognas.github.io/post/user-2019/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/user-2019/</guid>
+      <guid>https://vrognas.github.io/post/user-2019/</guid>
       <description>Bonjour!
 So I recently attended the yearly R conference called useR! It was a great experience to attend presentations of the developers of many packages that I have been using. I especially enjoyed hearing Hadley Wickham (tidyverse/dplyr/ggplot2), Lionel Henry (rlang/tidy-eval), Romain François (dplyr), Terry Therneau (survival) and Achim Zeileis (colorspace).
 Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it is used to write functions in the tidyverse!</description>
@@ -53,56 +44,47 @@ Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it i
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>/post/markdown-syntax/</link>
+      <link>https://vrognas.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/markdown-syntax/</guid>
+      <guid>https://vrognas.github.io/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>/post/rich-content/</link>
+      <link>https://vrognas.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/rich-content/</guid>
+      <guid>https://vrognas.github.io/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
+      <link>https://vrognas.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/placeholder-text/</guid>
+      <guid>https://vrognas.github.io/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>/post/math-typesetting/</link>
+      <link>https://vrognas.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/math-typesetting/</guid>
+      <guid>https://vrognas.github.io/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Touch Typing</title>
-      <link>/post/touch-typing/</link>
+      <link>https://vrognas.github.io/post/touch-typing/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/touch-typing/</guid>
+      <guid>https://vrognas.github.io/post/touch-typing/</guid>
       <description>It all started out with me trying to learn Vim I came across the term “touch typing” when I was looking in a book about Vim (the text editor). The book is called Practical Vim: Edit Text at the Speed of Thought, by Drew Neil. In there I read the following in the foreword:
  Learn to Touch Type, Then Learn Vim
 If you have to look down to find the keys on the keyboard, the benefits of learning Vim won’t come fast.</description>
@@ -110,10 +92,10 @@ If you have to look down to find the keys on the keyboard, the benefits of learn
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://vrognas.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://vrognas.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
