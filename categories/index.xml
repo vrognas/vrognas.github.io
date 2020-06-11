@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Viktor Rognås</title>
-    <link>/categories/</link>
+    <link>https://vrognas.github.io/categories/</link>
     <description>Recent content in Categories on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vrognas.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CLI</title>
-      <link>/categories/cli/</link>
+      <link>https://vrognas.github.io/categories/cli/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cli/</guid>
+      <guid>https://vrognas.github.io/categories/cli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UNIX</title>
-      <link>/categories/unix/</link>
+      <link>https://vrognas.github.io/categories/unix/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/unix/</guid>
+      <guid>https://vrognas.github.io/categories/unix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pharmacometrics</title>
-      <link>/categories/pharmacometrics/</link>
+      <link>https://vrognas.github.io/categories/pharmacometrics/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/pharmacometrics/</guid>
+      <guid>https://vrognas.github.io/categories/pharmacometrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://vrognas.github.io/categories/r/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://vrognas.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>/categories/random/</link>
+      <link>https://vrognas.github.io/categories/random/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/random/</guid>
+      <guid>https://vrognas.github.io/categories/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>https://vrognas.github.io/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>https://vrognas.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>https://vrognas.github.io/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>https://vrognas.github.io/categories/themes/</guid>
       <description></description>
     </item>
     

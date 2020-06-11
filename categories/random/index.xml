@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random on Viktor Rognås</title>
-    <link>/categories/random/</link>
+    <link>https://vrognas.github.io/categories/random/</link>
     <description>Recent content in random on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
     <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/random/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vrognas.github.io/categories/random/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>useR!2019</title>
-      <link>/post/user-2019/</link>
+      <link>https://vrognas.github.io/post/user-2019/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/user-2019/</guid>
+      <guid>https://vrognas.github.io/post/user-2019/</guid>
       <description>Bonjour!
 So I recently attended the yearly R conference called useR! It was a great experience to attend presentations of the developers of many packages that I have been using. I especially enjoyed hearing Hadley Wickham (tidyverse/dplyr/ggplot2), Lionel Henry (rlang/tidy-eval), Romain François (dplyr), Terry Therneau (survival) and Achim Zeileis (colorspace).
 Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it is used to write functions in the tidyverse!</description>
@@ -25,10 +25,10 @@ Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it i
     
     <item>
       <title>Touch Typing</title>
-      <link>/post/touch-typing/</link>
+      <link>https://vrognas.github.io/post/touch-typing/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/touch-typing/</guid>
+      <guid>https://vrognas.github.io/post/touch-typing/</guid>
       <description>It all started out with me trying to learn Vim I came across the term “touch typing” when I was looking in a book about Vim (the text editor). The book is called Practical Vim: Edit Text at the Speed of Thought, by Drew Neil. In there I read the following in the foreword:
  Learn to Touch Type, Then Learn Vim
 If you have to look down to find the keys on the keyboard, the benefits of learning Vim won’t come fast.</description>
