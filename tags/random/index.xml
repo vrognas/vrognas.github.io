@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vrognas.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>useR!2019</title>
       <link>https://vrognas.com/post/user-2019/</link>

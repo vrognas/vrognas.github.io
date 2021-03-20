@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vrognas.com/categories/pharmacometrics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/categories/pharmacometrics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My view on estimating kidney function in pharmacometrics</title>
       <link>https://vrognas.com/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</link>

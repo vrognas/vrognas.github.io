@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://vrognas.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software management with Homebrew 🍺</title>
       <link>https://vrognas.com/post/homebrew/</link>
