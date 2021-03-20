@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Viktor Rognås</title>
-    <link>https://vrognas.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>macOS</title>
-      <link>https://vrognas.com/tags/macos/</link>
+      <link>/tags/macos/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/tags/macos/</guid>
+      <guid>/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>https://vrognas.com/tags/random/</link>
+      <link>/tags/random/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/tags/random/</guid>
+      <guid>/tags/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GNU/Linux</title>
-      <link>https://vrognas.com/tags/gnu/linux/</link>
+      <link>/tags/gnu/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/tags/gnu/linux/</guid>
+      <guid>/tags/gnu/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://vrognas.com/tags/index/</link>
+      <link>/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/tags/index/</guid>
+      <guid>/tags/index/</guid>
       <description></description>
     </item>
     

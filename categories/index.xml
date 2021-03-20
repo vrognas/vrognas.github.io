@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Viktor Rognås</title>
-    <link>https://vrognas.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CLI</title>
-      <link>https://vrognas.com/categories/cli/</link>
+      <link>/categories/cli/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/categories/cli/</guid>
+      <guid>/categories/cli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UNIX</title>
-      <link>https://vrognas.com/categories/unix/</link>
+      <link>/categories/unix/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/categories/unix/</guid>
+      <guid>/categories/unix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pharmacometrics</title>
-      <link>https://vrognas.com/categories/pharmacometrics/</link>
+      <link>/categories/pharmacometrics/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/categories/pharmacometrics/</guid>
+      <guid>/categories/pharmacometrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://vrognas.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
-      <link>https://vrognas.com/categories/random/</link>
+      <link>/categories/random/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/categories/random/</guid>
+      <guid>/categories/random/</guid>
       <description></description>
     </item>
     

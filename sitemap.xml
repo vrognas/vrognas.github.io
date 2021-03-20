@@ -1,108 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://vrognas.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/</loc>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/cli/</loc>
+  </url><url>
+    <loc>/categories/cli/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/tags/macos/</loc>
+  </url><url>
+    <loc>/tags/macos/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/</loc>
+  </url><url>
+    <loc>/post/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/homebrew/</loc>
+  </url><url>
+    <loc>/post/homebrew/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/tags/</loc>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/unix/</loc>
+  </url><url>
+    <loc>/categories/unix/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/cheat-unix/</loc>
+  </url><url>
+    <loc>/post/cheat-unix/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</loc>
+  </url><url>
+    <loc>/post/my-view-on-estimating-kidney-function-in-pharmacometrics/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/pharmacometrics/</loc>
+  </url><url>
+    <loc>/categories/pharmacometrics/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/r/</loc>
+  </url><url>
+    <loc>/categories/r/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/tags/random/</loc>
+  </url><url>
+    <loc>/tags/random/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/categories/random/</loc>
+  </url><url>
+    <loc>/categories/random/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/user-2019/</loc>
+  </url><url>
+    <loc>/post/user-2019/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/archives/</loc>
+  </url><url>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/math-typesetting/</loc>
+  </url><url>
+    <loc>/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/about/</loc>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/post/touch-typing/</loc>
+  </url><url>
+    <loc>/post/touch-typing/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/gnu/linux/</loc>
+  </url><url>
+    <loc>/tags/index/</loc>
   </url>
-  
-  <url>
-    <loc>https://vrognas.com/tags/gnu/linux/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vrognas.com/tags/index/</loc>
-  </url>
-  
 </urlset>

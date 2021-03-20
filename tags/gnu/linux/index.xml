@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GNU/Linux on Viktor Rognås</title>
-    <link>https://vrognas.com/tags/gnu/linux/</link>
+    <link>/tags/gnu/linux/</link>
     <description>Recent content in GNU/Linux on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright><atom:link href="https://vrognas.com/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright><atom:link href="/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software management with Homebrew 🍺</title>
-      <link>https://vrognas.com/post/homebrew/</link>
+      <link>/post/homebrew/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/post/homebrew/</guid>
+      <guid>/post/homebrew/</guid>
       <description>One thing that GNU/Linux users are familiar with is the concept of a “package manager”. A package manager is a tool that keeps track of software for you. It installs it, uninstalls it, upgrades it, etc. On macOS there isn’t any package manager installed by default (perhaps the App Store could be seen as some form of package manager?), so for all you macOS users out there I highly recommend you install Homebrew.</description>
     </item>
     
     <item>
       <title>Cheat for the command line!</title>
-      <link>https://vrognas.com/post/cheat-unix/</link>
+      <link>/post/cheat-unix/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/post/cheat-unix/</guid>
+      <guid>/post/cheat-unix/</guid>
       <description>When you start out using the command line, you will notice that there are many small and handy programs (also referred to as “commands”) you can run. You might start out using pwd (for “print working directory”), which will tell you what directory you are currently in. Then you might use programs such as ls to “list” the contents of a directory, and you might use cd to “change directory” to another directory you might want to go to.</description>
     </item>
     

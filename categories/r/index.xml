@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Viktor Rognås</title>
-    <link>https://vrognas.com/categories/r/</link>
+    <link>/categories/r/</link>
     <description>Recent content in R on Viktor Rognås</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2020, Viktor Rognås</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vrognas.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>useR!2019</title>
-      <link>https://vrognas.com/post/user-2019/</link>
+      <link>/post/user-2019/</link>
       <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vrognas.com/post/user-2019/</guid>
+      <guid>/post/user-2019/</guid>
       <description>Bonjour!
 So I recently attended the yearly R conference called useR! It was a great experience to attend presentations of the developers of many packages that I have been using. I especially enjoyed hearing Hadley Wickham (tidyverse/dplyr/ggplot2), Lionel Henry (rlang/tidy-eval), Romain François (dplyr), Terry Therneau (survival) and Achim Zeileis (colorspace).
 Lionel Henry’s talk got me inspired to learn more about tidy-eval and how it is used to write functions in the tidyverse!</description>
