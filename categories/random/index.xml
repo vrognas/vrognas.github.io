@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2021, Viktor Rognås</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/random/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice for writing your BSc/MSc thesis</title>
+      <link>/post/advice-bsc-msc/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/advice-bsc-msc/</guid>
+      <description>For your report, use the official university template if one exists. Think about how you will analyze your results before you have the results. Don’t follow the instructions from your supervisor blindly. Make sure you understand the reasoning behind the decisions. If you don’t understand why you do things a certain way, ask. When you present your work, you don’t want to answer any questions with “because my supervisor said so”.</description>
+    </item>
+    
     <item>
       <title>useR!2019</title>
       <link>/post/user-2019/</link>
